@@ -1,4 +1,4 @@
-<h1 align="center">DSCatalag</h1>
+<h1 align="center">DSCatalog</h1>
 
 > Siga as orientações para executar o projeto!
 > 
